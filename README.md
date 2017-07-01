@@ -24,11 +24,11 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### General Questions:
 
-* What did you learn yesterday/this week?
-* What excites or interests you about coding?
-* What is a recent technical challenge you experienced and how did you solve it?
-* What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
-* Talk about your preferred development environment.
+1. What did you learn yesterday/this week?
+2. What excites or interests you about coding?
+3. What is a recent technical challenge you experienced and how did you solve it?
+4. What UI, Security, Performance, SEO, Maintainability or Technology considerations do you make while building a web application or site?
+5. Talk about your preferred development environment.
 * Which version control systems are you familiar with?
 * Can you describe your workflow when you create a web page?
 * If you have 5 different stylesheets, how would you best integrate them into the site?
@@ -48,19 +48,19 @@ This file contains a number of front-end interview questions that can be used wh
 
 #### HTML Questions:
 
-* What does a `doctype` do?
-* What's the difference between full standards mode, almost standards mode and quirks mode?
-* What's the difference between HTML and XHTML?
-* Are there any problems with serving pages as `application/xhtml+xml`?
-* How do you serve a page with content in multiple languages?
-* What kind of things must you be wary of when design or developing for multilingual sites?
-* What are `data-` attributes good for?
-* Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-* Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
-* Describe the difference between `<script>`, `<script async>` and `<script defer>`.
-* Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
-* What is progressive rendering?
-* Have you used different HTML templating languages before?
+1. What does a `doctype` do?
+2. What's the difference between full standards mode, almost standards mode and quirks mode?
+3. What's the difference between HTML and XHTML?
+4. Are there any problems with serving pages as `application/xhtml+xml`?
+5. How do you serve a page with content in multiple languages?
+6. What kind of things must you be wary of when design or developing for multilingual sites?
+7. What are `data-` attributes good for?
+8. Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+9. Describe the difference between a `cookie`, `sessionStorage` and `localStorage`.
+10. Describe the difference between `<script>`, `<script async>` and `<script defer>`.
+11. Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
+12. What is progressive rendering?
+13. Have you used different HTML templating languages before?
 
 #### CSS Questions:
 
